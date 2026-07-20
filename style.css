@@ -46,7 +46,7 @@ p{
     align-items:center;
     justify-content:center;
 
-    margin-top:-125px;
+    margin-top:-145px;
 
     padding:14px 28px;
     min-width:270px;
@@ -61,7 +61,7 @@ p{
     border-radius:999px;
     box-shadow:0 10px 24px rgba(169,109,144,.32);
 
-    transition:.25s;
+    transition:all .25s ease;
 }
 
 .button:hover{
